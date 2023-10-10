@@ -6,6 +6,7 @@ This competition was a machine learning challenge for labeling time series. The 
 
 # Analysing steps
 https://www.kaggle.com/code/vrbaryshev/locating-steps-wavelets-step-rate-feature
+https://github.com/VRBarysh/Kagge-FOG/blob/main/locating-steps-wavelets-step-rate-feature%20.ipynb
 In this public notebook I've tried to split the whole movement process into individual steps and calculate dynamic "step rate" feature. I've used wavelet spectrum approach to detect steps and achieved verifiable results. This notebook was recieved well by the community with a silver medal and as many forks as upvotes.
 
 # 1D onvolutional network group approach
