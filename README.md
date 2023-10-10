@@ -5,8 +5,9 @@ https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
 This competition was a machine learning challenge for labeling time series. The main goal was detecting Parkinson's disease by processing three axis accelerometers readings. We had a training dataset of manually labeled readings to learn from and the task was to label new data. The data consisted of individual files with 100Hz or 128Hz time series from three axis accelerometers attached to patient's backs. We had to label every time slice of those series as one of "walking", "turning" or "trying to walk" freezing of gait events or label them free of those.
 
 # Analysing steps
-https://www.kaggle.com/code/vrbaryshev/locating-steps-wavelets-step-rate-feature
-https://github.com/VRBarysh/Kagge-FOG/blob/main/locating-steps-wavelets-step-rate-feature.ipynb
+
+https://www.kaggle.com/code/vrbaryshev/locating-steps-wavelets-step-rate-feature (with comments, but no graphs anymore) 
+https://github.com/VRBarysh/Kagge-FOG/blob/main/locating-steps-wavelets-step-rate-feature.ipynb  (with graphs)  
 In this public notebook I've tried to split the whole movement process into individual steps and calculate dynamic "step rate" feature. I've used wavelet spectrum approach to detect steps and achieved verifiable results. This notebook was recieved well by the community with a silver medal and as many forks as upvotes.
 
 # 1D onvolutional network group approach
