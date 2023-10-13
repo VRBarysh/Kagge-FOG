@@ -11,7 +11,7 @@ https://github.com/VRBarysh/Kagge-FOG/blob/main/locating-steps-wavelets-step-rat
 
 In this public notebook I've tried to split the whole movement process into individual steps and calculate dynamic "step rate" feature. I've used wavelet spectrum approach to detect steps and achieved verifiable results. This notebook was recieved well by the community with a silver medal and as many forks as upvotes.
 
-# 1D onvolutional network group approach
+# 1D Convolutional network group approach
 [https://www.kaggle.com/code/ernestglukhov/parkinson-s-fog-prediction-by-practicum](https://www.kaggle.com/code/ernestglukhov/practicum-final-1d-cnn-solution)
 In this public notebook we offered a group solution for the machine learning challenge where we used 1D convolutional network to tackle the problem. We were quite confident and happy with our results right until the final test day: we confidenly aimed for a silver medal. Regrettably, all convolutional networks performed poorly on the final day when the public test data was substituted with the private test data.
 
